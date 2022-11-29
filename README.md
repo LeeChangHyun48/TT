@@ -3,98 +3,41 @@
 ## TT - For TRPG with Online!
 <div id="readme-top"></div>
 <!--사진-->
-![06 about 화면](https://user-images.githubusercontent.com/40424414/185549536-c7840946-7b3b-4174-bf82-a2d307e4a308.png)
+
+![image](https://user-images.githubusercontent.com/116571873/204405379-856f13b2-be23-48f3-8945-7f714c3d3f0c.png)
+
+![image](https://user-images.githubusercontent.com/116571873/204405691-2bfbf420-f253-4cff-9581-beb13625c2cf.png)
+
 
 [TT](https://i7a809.p.ssafy.io/)
 온라인에서도 TRPG를 즐길 수 있는 서비스입니다!
 
 아래 홈페이지의 주요 사진들입니다.
 <details>
-<summary>첫 화면</summary>
-<div markdown="1">       
-![01 첫화면](https://user-images.githubusercontent.com/40424414/185575228-57aee800-b0ce-43ef-8177-b7d973018e25.png)
-<h6>홈페이지에 들어갔을 나타나는 첫 화면입니다.</h6>
-<h6>회원가입을 진행하신 다음, 로그인을 하면 서비스를 이용할 수 있습니다.</h6>
-</div>
+  
+![image](https://user-images.githubusercontent.com/116571873/204405784-be3a6993-7ee4-4128-bff1-3b325a3d523a.png) 
+  
+![image](https://user-images.githubusercontent.com/116571873/204405871-abd060a7-f7e7-4012-ae47-1f7faaa6e695.png)
+  
+![image](https://user-images.githubusercontent.com/116571873/204405963-fbc33dd3-312a-4299-8be3-089bc790c7f8.png)
+  
+![image](https://user-images.githubusercontent.com/116571873/204406084-3f983ded-7219-4c71-9dc5-3e3e2a62cc4d.png)
+  
+![image](https://user-images.githubusercontent.com/116571873/204406162-9f876f1b-f4a8-4551-8af7-f50f92721ae8.png)
+  
+![image](https://user-images.githubusercontent.com/116571873/204406198-6cf534d6-e51a-4641-8a4d-9b0c691b1f71.png)
+  
+![image](https://user-images.githubusercontent.com/116571873/204406256-eefdd8d0-8ebe-472f-9b49-013522224c69.png)
+  
+![image](https://user-images.githubusercontent.com/116571873/204406318-d1d522c6-71de-40e7-ae42-1649739c72e5.png)
+  
+![image](https://user-images.githubusercontent.com/116571873/204406407-fd5ae3c5-9cfc-4aaf-85aa-717a9da90f2f.png)
+  
+
+  
 </details>
 
-<details>
-<summary>파티 모집 게시판 - 작성</summary>
-<div markdown="1">       
-![15 파티 모집 게시판 작성](https://user-images.githubusercontent.com/40424414/185575440-0e6ab967-ae25-413d-bcb2-26c758cd1892.png)
-<h6>같이 게임을 즐길 인원을 모집하는 게시판입니다.</h6>
-<h6>같이 플레이할 인원 수와 게임할 시간, 그리고 작성자가 어느 포지션으로 게임을 뛸 것인지 고를 수 있습니다.</h6>
-</div>
-</details>
 
-<details>
-<summary>파티 모집 게시판 - 플레이어 등록</summary>
-<div markdown="1">       
-![Table Talk - Chrome 2022-08-19 오전 10_04_05](https://user-images.githubusercontent.com/40424414/185575586-93d4c5f7-5fc8-4055-8d6c-ead14d770a7c.png)
-<h6>파티 모집 중인 게시물에 들어가서 참가 신청을 할 수 있습니다.</h6>
-</div>
-</details>
-
-<details>
-<summary>파티 모집 게시판 - 방 입장</summary>
-<div markdown="1">       
-![Table Talk - Chrome 2022-08-19 오전 10_09_52](https://user-images.githubusercontent.com/40424414/185575683-56bfd208-2831-4aa1-9064-5562b6f6fc77.png)
-<h6>게시글에 적힌 시간이 되면 참가 신청을 한 사람에 한하여 방에 입장할 수 있는 버튼이 생깁니다.</h6>
-</div>
-</details>
-
-<details>
-<summary>플레이어 첫 화면</summary>
-<div markdown="1">       
-![24 캐릭터 프로필 생성](https://user-images.githubusercontent.com/40424414/185575998-e958851f-d4bc-4dde-aed5-c2ebea3c3b01.png)
-<h6>플레이어가 방에 입장한 후 보이는 첫 화면입니다.</h6>
-<h6>직업을 고를 수 있고, info를 통해 해당 직업에 대한 설명도 볼 수 있습니다.</h6>
-</div>
-</details>
-
-<details>
-<summary>플레이어 캐릭터 프로필</summary>
-<div markdown="1">       
-![23 플레이어 캐픽터 프로필](https://user-images.githubusercontent.com/40424414/185576188-1acb8346-2721-4392-ae2c-a2e0587e0969.png)
-<h6>처음 보이는 캐릭터 프로필 생성을 완료하면 볼 수 있는 프로필 화면입니다.</h6>
-</div>
-</details>
-
-<details>
-<summary>GM 첫 화면</summary>
-<div markdown="1">       
-![16 GM 입장](https://user-images.githubusercontent.com/40424414/185575827-87d630d8-9e54-44e3-aaaa-42e629b7900a.png)
-<h6>GM이 방에 입장한 후 보이는 첫 화면입니다.</h6>
-<h6>GM은 플레이어와 다르게 프로필을 생성하지 않습니다. 다만 GM만이 운영할 수 있는 시스템이 있습니다.</h6>
-</div>
-</details>
-
-<details>
-<summary>GM 게임 운영 메뉴</summary>
-<div markdown="1">       
-![19 운영 전투 시스템](https://user-images.githubusercontent.com/40424414/185575918-e3bef179-73d5-4f3e-acbb-a65798567613.png)
-<h6>GM이 게임을 진행하면서 누를 수 있는 버튼입니다.</h6>
-<h6>플레이어의 HP에 변화를 주거나, 아이템을 주고, 스탯을 보상으로 주는 등의 메뉴가 있습니다.</h6>
-</div>
-</details>
-
-<details>
-<summary>지도</summary>
-<div markdown="1">       
-![17 GM 지도](https://user-images.githubusercontent.com/40424414/185576270-33ad317d-24d6-4167-a8b4-70bb63ceea0a.png)
-<h6>지도입니다. 여러분이 계신 또 다른 공간을 보여줍니다.</h6>
-</div>
-</details>
-
-<details>
-<summary>주사위</summary>
-<div markdown="1">       
-![20 주사위 굴리기](https://user-images.githubusercontent.com/40424414/185576323-3d5445a7-7b05-444a-8a03-040608ce3aa0.png)
-<h6>주사위입니다. 여러분의 실력에 따라 미래가 바뀔 것입니다.</h6>
-</div>
-</details>
-
-<p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
 
 ## 개발
@@ -147,13 +90,13 @@ JAVA openjdk version 1.8.0_342
 
 ### 배포 아키텍쳐
 
-![화면 캡처 2022-08-19 200133](images/화면 캡처 2022-08-19 200133.png)
+![image](https://user-images.githubusercontent.com/116571873/204406630-0c9d858e-91f0-4914-91d7-c127f84fd6b8.png)
 
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
 ## 팀 멤버
 
-![화면 캡처 2022-08-19 200854](images/화면 캡처 2022-08-19 200854.png)
+![image](https://user-images.githubusercontent.com/116571873/204407079-304213c5-f797-426a-ba17-757697b0b606.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
