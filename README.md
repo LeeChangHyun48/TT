@@ -12,7 +12,7 @@
 [TT](https://i7a809.p.ssafy.io/)
 온라인에서도 TRPG를 즐길 수 있는 서비스입니다!
 
-아래 홈페이지의 주요 사진들입니다.
+### 아래 홈페이지의 주요 사진들입니다.
 <details>
   
 ![image](https://user-images.githubusercontent.com/116571873/204405784-be3a6993-7ee4-4128-bff1-3b325a3d523a.png) 
@@ -37,6 +37,17 @@
   
 </details>
 
+### 개발 내용
+<details>
+  
+- Back-End 기술 환경 구성 및 기본 설정
+- DB 설계
+- RestAPI Docs 작성
+- 회원 관리(회원 가입, 로그인, 로그아웃, 상세 조회, 탈퇴)
+- JPA를 활용한 게시판 관리
+- EC2로 DB 연동
+  
+</details>
 
 
 
