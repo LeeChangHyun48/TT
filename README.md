@@ -37,20 +37,6 @@
   
 </details>
 
-### 개발 내용
-<details>
-  
-- Back-End 기술 환경 구성 및 기본 설정
-- DB 설계
-- RestAPI Docs 작성
-- 회원 관리(회원 가입, 로그인, 로그아웃, 상세 조회, 탈퇴)
-- JPA를 활용한 게시판 관리
-- EC2로 DB 연동
-  
-</details>
-
-
-
 ## 개발
 ### 기술 스택
 - FRONTEND:       
